@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: lime;
+    font-style: oblique;
+    padding: 20px;
+    background-color: cornsilk;
+    background-image: url(https://good-resume.com/wp-content/uploads/2017/02/Free-Black-Landscape-Resume-CV-Design-Template-PSD-File-1.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  
+  
